@@ -1,0 +1,8 @@
+[programs.mainnet]
+earn_token = "Earn111111111111111111111111111111111111111"
+
+[provider]
+cluster = "mainnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
